@@ -19,7 +19,7 @@
         <spark.version>2.4.4</spark.version>
         <hoodie.version>0.5.2-SNAPSHOT</hoodie.version>
         <scalikejdbc.version>2.5.0</scalikejdbc.version>
-        <hadoop.version>2.7.3</hadoop.version>
+        <hadoop.version>2.10.1</hadoop.version>
     </properties>
 
     <dependencies>
